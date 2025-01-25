@@ -246,9 +246,9 @@ class _DeepBreathScreenState extends State<DeepBreathScreen>
     });
 
     // Close the screen after 6 seconds
-    Future.delayed(const Duration(seconds: 15), () {
-      Navigator.pop(context);
-    });
+    //   Future.delayed(const Duration(seconds: 15), () {
+    //     Navigator.pop(context);
+    //   });
   }
 
   @override

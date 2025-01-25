@@ -177,12 +177,18 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_secure_storage/flutter_secure_storage.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/uni_links/uni_links.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/url_launcher_ios/url_launcher_ios.framework"
 fi
 if [[ "$CONFIGURATION" == "Profile" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_secure_storage/flutter_secure_storage.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/uni_links/uni_links.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/url_launcher_ios/url_launcher_ios.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_secure_storage/flutter_secure_storage.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/uni_links/uni_links.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/url_launcher_ios/url_launcher_ios.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait
