@@ -1,4 +1,4 @@
-package com.example.soves
+package com.example.breathapp
 
 import io.flutter.embedding.android.FlutterActivity
 

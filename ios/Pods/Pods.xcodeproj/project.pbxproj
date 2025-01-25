@@ -374,13 +374,13 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		30192B764CAF866BAB859D46AEACA8D3 /* soves */ = {
+		30192B764CAF866BAB859D46AEACA8D3 /* breathapp */ = {
 			isa = PBXGroup;
 			children = (
 				102D2FC05D7AE72EE36ACE17B8BAE11E /* ios */,
 			);
-			name = soves;
-			path = soves;
+			name = breathapp;
+			path = breathapp;
 			sourceTree = "<group>";
 		};
 		3587238A655ED4FA93503103CA079E8C /* .. */ = {
@@ -502,13 +502,13 @@
 			path = Workspace;
 			sourceTree = "<group>";
 		};
-		60F01215AE2A6D94C6E6ED676B479480 /* soves */ = {
+		60F01215AE2A6D94C6E6ED676B479480 /* breathapp */ = {
 			isa = PBXGroup;
 			children = (
 				C29F0AD7E8C1EB6FC49C315EE638E379 /* ios */,
 			);
-			name = soves;
-			path = soves;
+			name = breathapp;
+			path = breathapp;
 			sourceTree = "<group>";
 		};
 		660FE5C3AE51E38643C8E5B7394579C1 /* url_launcher_ios */ = {
@@ -551,25 +551,25 @@
 		736C318727E700A5B339C73BFBB29B5F /* personal */ = {
 			isa = PBXGroup;
 			children = (
-				60F01215AE2A6D94C6E6ED676B479480 /* soves */,
+				60F01215AE2A6D94C6E6ED676B479480 /* breathapp */,
 			);
 			name = personal;
 			path = personal;
 			sourceTree = "<group>";
 		};
-		760F2FBBC9D28B3BBB60E7C27B1B6CD9 /* soves */ = {
+		760F2FBBC9D28B3BBB60E7C27B1B6CD9 /* breathapp */ = {
 			isa = PBXGroup;
 			children = (
 				842F51B85E2F3DADBA0CD2B67244BE94 /* ios */,
 			);
-			name = soves;
-			path = soves;
+			name = breathapp;
+			path = breathapp;
 			sourceTree = "<group>";
 		};
 		767F07ED3F8694E9D0AA529A7CE9B053 /* personal */ = {
 			isa = PBXGroup;
 			children = (
-				760F2FBBC9D28B3BBB60E7C27B1B6CD9 /* soves */,
+				760F2FBBC9D28B3BBB60E7C27B1B6CD9 /* breathapp */,
 			);
 			name = personal;
 			path = personal;
@@ -690,7 +690,7 @@
 		9D59BD7EC427BC2581187B9A2CBC5B47 /* personal */ = {
 			isa = PBXGroup;
 			children = (
-				30192B764CAF866BAB859D46AEACA8D3 /* soves */,
+				30192B764CAF866BAB859D46AEACA8D3 /* breathapp */,
 			);
 			name = personal;
 			path = personal;
@@ -755,7 +755,7 @@
 		B54D7268C74549E1B8A0404F1B16E528 /* personal */ = {
 			isa = PBXGroup;
 			children = (
-				DDD6EB37A67D5FF2E10D13433CE20DFF /* soves */,
+				DDD6EB37A67D5FF2E10D13433CE20DFF /* breathapp */,
 			);
 			name = personal;
 			path = personal;
@@ -871,13 +871,13 @@
 			path = url_launcher_ios;
 			sourceTree = "<group>";
 		};
-		DDD6EB37A67D5FF2E10D13433CE20DFF /* soves */ = {
+		DDD6EB37A67D5FF2E10D13433CE20DFF /* breathapp */ = {
 			isa = PBXGroup;
 			children = (
 				028A730976EC094BD643E7F60F9F5788 /* ios */,
 			);
-			name = soves;
-			path = soves;
+			name = breathapp;
+			path = breathapp;
 			sourceTree = "<group>";
 		};
 		E03CF63107D55E3BE81F589CEA4F156E /* ios */ = {
